@@ -35,5 +35,5 @@ These are the wordlists:
 /usr/share/seclists/Discovery/Web-Content/common.txt
 /usr/share/seclists/Discovery/Web-Content/raft-large-directories.txt
 /usr/share/seclists/Discovery/Web-Content/raft-large-files.txt
-(Note that raft-large-files search is made with the extensions: .html,.php,.log,.txt,.bak,.zip)
 ```
+(Note that raft-large-files search is made with the extensions: .html,.php,.log,.txt,.bak,.zip)
