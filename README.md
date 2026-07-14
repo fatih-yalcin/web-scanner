@@ -30,6 +30,13 @@ ffuf_192.168.133.112_3000_20260710_151902
   192.168.133.112_3000_common.txt            192.168.133.112_3000_raft_files.txt
   192.168.133.112_3000_raft_directories.txt  report_192.168.133.112_3000.html
 ```
+Output Format:
+```
+ffuf_IPADDRESS_PORT_DATE
+  IPADDRESS_PORT_wordlist
+  report_IPADDRESS_PORT.html
+```
+
 These are the wordlists:
 ```
 /usr/share/seclists/Discovery/Web-Content/common.txt
