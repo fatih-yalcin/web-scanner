@@ -31,7 +31,9 @@ ffuf_192.168.133.112_3000_20260710_151902
   192.168.133.112_3000_raft_directories.txt  report_192.168.133.112_3000.html
 ```
 These are the wordlists:
+```
 /usr/share/seclists/Discovery/Web-Content/common.txt
 /usr/share/seclists/Discovery/Web-Content/raft-large-directories.txt
 /usr/share/seclists/Discovery/Web-Content/raft-large-files.txt
 (Note that raft-large-files search is made with the extensions: .html,.php,.log,.txt,.bak,.zip)
+```
